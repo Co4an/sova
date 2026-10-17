@@ -1,0 +1,6 @@
+interface:
+  display_name: "Сова"
+  short_description: "Исследования и Excel с проверкой формул"
+  default_prompt: "Используй $sova для выполнения задания с проверкой источников, расчётов и формул Excel."
+policy:
+  allow_implicit_invocation: true
